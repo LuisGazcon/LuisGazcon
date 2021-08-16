@@ -25,7 +25,7 @@ If you have a great idea or just want to work with me let me now, you can reach 
   <a href="https://www.twitter.com/LuisGazconz" target="_blank">
     <img src="/LuisGazcon-twitter.png" width="32px" alt="Twitter social icon"/>
   </a>
-  <a href="https://luisgazcon.vercel.app/" target="_blank">
+  <a href="https://www.luisgazcon.works/" target="_blank">
     <img src="/LuisGazcon-portfolio.png" width="32px" alt="Personal website social icon"/>
   </a>
   <a href="mailto:luiselgazcon@gmail.com" target="_blank">
